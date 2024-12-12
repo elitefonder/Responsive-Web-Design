@@ -1,3 +1,3 @@
 ## Adventure Website
 
-[](adventure.png)
+![](adventure.png)
